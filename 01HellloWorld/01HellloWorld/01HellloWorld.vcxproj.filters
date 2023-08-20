@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\02">
+      <UniqueIdentifier>{c7ae2696-ad70-452c-8166-e72c2201a178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\03数组">
+      <UniqueIdentifier>{b4d04630-0461-413e-8307-7c08a1d9999d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01C++HelloWorld.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="03variable.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="04const.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="05整形.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="06sizeof.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="07浮点型.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="08字符型.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="09转义字符.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="10字符串.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="11布尔类型.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="12数据输入.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="13运算符.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="14运算符递增.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="15赋值运算符.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="16选择结构-if语句.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="16+案例 称体重（擂台）.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="17选择结构-三目运算符.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="18选择结构-switch语句.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="19循环结构-while语句.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="19+案例 猜数字.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="20循环结构-do...while语句.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="20+案例 水仙花数（获取数字每个位）.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="21循环结构-for语句.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="21+案例 敲桌子.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="22嵌套循环.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="22+案例 乘法口诀表.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="23跳转语句-break.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="24跳转语句-continue.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="25跳转语句-goto.cpp">
+      <Filter>Resource Files\02</Filter>
+    </ClCompile>
+    <ClCompile Include="01数组.cpp">
+      <Filter>Resource Files\03数组</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
